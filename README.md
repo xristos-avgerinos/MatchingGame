@@ -1,2 +1,4 @@
 # MatchingGame
-Test your memory with this memory game created in MS Visual Studio 2019 (Windows Forms) with C#.
+A group project that was developed as a university assignment for the subject "Object Oriented Application Development".
+
+ **Group members involved in this project:**<br>                                                                                                                          Athanasios Bitakis, Dimitrios Panagiotopoulos, Avgerinos christos.
